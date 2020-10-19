@@ -21,3 +21,10 @@
 
 ## ΕΙΣΑΓΩΓΗ
  Οι προσδοκίες μου από το μάθημα της Επικοινωνίας Ανθρώπου-Υπολογιστή αρχικά είναι να μάθω τα βασικά στάδια σχεδιασμού της διάδρασης και κατά την διάρκεια του εξαμήνου να εξοικειωθώ μέσω των εργασιών στην ανάπτυξη την διάδρασης καθώς και να δω τις διαφορετικές εφαρμογές της διάδρασης. Επίσης παρόλο που δεν είναι το βασικό κομμάτι του μαθήματος θέλω να μάθω και Markdown καθώς το βρίσκω σαν ευκαιρία να μάθω μια lightweight markup language (LML), εφόσον θα χρειαστεί η γνώση της για το GitHub. Σχετικά με το πρόγραμμα του μαθήματος δεν έχω κάποιο πρόβλημα με την οποιαδήποτε αλλαγή. Τέλος οι ενέργειες που σκοπεύω να κάνω για να πετύχω τους παραπάνω στόχους είναι να παραδώσω κάθε εργασία όσο ποιο νωρίς για να μπορέσω να εντοπίσω τυχόν προβλήματα ή να βελτιώσω κομμάτια κώδικα που δεν έχουν πραγματοποιηθεί με τον ιδανικό τρόπο/μέθοδο.
+## ΠΑΡΑΔΟΤΕΟ 2ο
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="AlexPoulis" data-slug-hash="WNxxPKV" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Concept">
+  <span>See the Pen <a href="https://codepen.io/AlexPoulis/pen/WNxxPKV">
+  Button Concept</a> by alexpoulis (<a href="https://codepen.io/AlexPoulis">@AlexPoulis</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
