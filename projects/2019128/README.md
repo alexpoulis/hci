@@ -28,3 +28,4 @@
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+[Το βίντεο που συμβουλευτικά για τον 2ο παραδοτέο](https://www.youtube.com/watch?v=UB1O30fR-EE&t=1516s)
