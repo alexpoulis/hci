@@ -24,10 +24,10 @@
 ## ΠΑΡΑΔΟΤΕΟ 2ο
 [Το βίντεο που συμβουλευτικά για τον 2ο παραδοτέο](https://www.youtube.com/watch?v=UB1O30fR-EE&t=1516s)
 
-[the code](<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="AlexPoulis" data-slug-hash="WNxxPKV" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Concept">
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="AlexPoulis" data-slug-hash="WNxxPKV" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Concept">
   <span>See the Pen <a href="https://codepen.io/AlexPoulis/pen/WNxxPKV">
   Button Concept</a> by alexpoulis (<a href="https://codepen.io/AlexPoulis">@AlexPoulis</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>)
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
