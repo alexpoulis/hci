@@ -24,12 +24,14 @@
 # ΠΑΡΑΔΟΤΕΟ 2ο
 [Το βίντεο που συμβουλευτικά για τον 2ο παραδοτέο](https://www.youtube.com/watch?v=UB1O30fR-EE&t=1516s)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για τον 2ο παραδοτέο](https://www.w3schools.com/html/html_colors.asp)<br/>
-### Κώδικας για το button 
+<br/>
+__Κώδικας για το button__<br/>
 https://github.com/alexpoulis/site/blob/master/_remix/button.md<br/>
 Το μόνο πρόβλημα που αντιμετώπισα ήταν ότι δεν πάτησα να μου το εμφάνιση στο codepen και το έκανα copy paste και δεν μου δούλεψε και ξόδεψα πολύ ώρα και στο τέλος που βρήκα το κουμπί το άνοιξα από εκεί και μου δούλεψε αμέσως.
 # ΠΑΡΑΔΟΤΕΟ 3ο
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το command prompt](https://phoenixnap.com/kb/change-bash-prompt-linux)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για τα .files](http://manpages.ubuntu.com/manpages/bionic/man1/ls.1.html)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για το software και το hardware](https://vitux.com/get-linux-system-and-hardware-details-on-the-command-line/)<br/>
-## Η ΑΣΚΗΣΗ
+<br/>
+__Η ΑΣΚΗΣΗ__<br/>
 https://asciinema.org/a/8gGDFMoy9Vd76iNbq4jaRluD9
