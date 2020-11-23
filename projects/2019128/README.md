@@ -44,5 +44,6 @@ https://github.com/alexpoulis/site/blob/master/_remix/mouse-form.md
 
 ## ΠΑΡΑΔΟΤΕΟ 6ο
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω βάλω την εικόνα](https://www.w3schools.com/html/html_images.asp)<br/>
+
 __Η ΑΣΚΗΣΗ__<br/>
 https://github.com/alexpoulis/site/blob/master/_remix/mouse-option.md
