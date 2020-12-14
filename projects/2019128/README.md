@@ -49,10 +49,10 @@ https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω βάλω την εικόνα](https://www.w3schools.com/html/html_images.asp)<br/>
 
 __Η ΑΣΚΗΣΗ__<br/>
-https://github.com/alexpoulis/site/blob/master/_remix/mouse-option.md<br/>
+https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-option/<br/>
  
 ## ΠΑΡΑΔΟΤΕΟ 9o 
-https://github.com/alexpoulis/site/blob/master/_remix/image.md<br/>
+https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/image/<br/>
  
 ## ΠΑΡΑΔΟΤΕΟ 10ο
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως κλείσω το emacs file](https://stackoverflow.com/questions/55485863/how-to-exit-emacs-text-editor-in-ubuntu-terminal/55488766)<br/>
