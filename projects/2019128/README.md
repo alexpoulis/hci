@@ -37,12 +37,12 @@ __Η ΑΣΚΗΣΗ__<br/>
 https://asciinema.org/a/8gGDFMoy9Vd76iNbq4jaRluD9
 ## ΠΑΡΑΔΟΤΕΟ 4ο
 Δεν συμβουλεύτηκα καμία ιστοσελίδα καθώς κοιτάζοντας τον ήδη υπάρχοντα κώδικα html κατάφερα να βρω την λύση<br/>
-Οι αλλαγές που έκανα είναι να κάνω label για το gender και μετά να διαλέξω τις 2 επιλογές
+Οι αλλαγές που έκανα είναι να κάνω label για το gender και μετά να διαλέξω τις 2 επιλογές.
  (Male\Female)<br/>
 __Η ΑΣΚΗΣΗ__<br/>
 https://github.com/alexpoulis/site/blob/master/_remix/mouse-form.md
 ## ΠΑΡΑΔΟΤΕΟ 5o
-
+Το μόνο πρόβλημα που συνάντησα ήταν ότι δεν βρήκα κάποιο command που να παίζει το mp3 αρχείο που κατέβασα, αλλά βρήκα command που να το παίζει με το link του βίντεο που κατέβασα σε mp3.
 https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF
 
 ## ΠΑΡΑΔΟΤΕΟ 7ο
@@ -55,6 +55,6 @@ https://github.com/alexpoulis/site/blob/master/_remix/mouse-option.md<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως κλείσω το emacs file](https://stackoverflow.com/questions/55485863/how-to-exit-emacs-text-editor-in-ubuntu-terminal/55488766)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως ανοίξω το emacs file](https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως να κάνω install το emacs](https://linuxhint.com/ubuntu_emacs_installation/)<br/>
-Η μόνη δυσκολία που συνάντησα στο παραδοτέο ήταν το να βρω πώς να ανοίξω το emacs μέσο του terminal καθώς με την εντολή emacs ανοίγει καινούργιο παράθυρο  το οποίο δεν εμφανίζεται στο βίντεο του asciinema<br/>
+Η μόνη δυσκολία που συνάντησα στο παραδοτέο ήταν το να βρω πώς να ανοίξω το emacs μέσο του terminal καθώς με την εντολή emacs ανοίγει καινούργιο παράθυρο  το οποίο δεν εμφανίζεται στο βίντεο του asciinema.<br/>
 __Η ΑΣΚΗΣΗ__<br/>
 https://asciinema.org/a/4p4TDVjLERh3HJ3nRlICVYHnk<br/>
