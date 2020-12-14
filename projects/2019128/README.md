@@ -12,7 +12,7 @@
 | 7 | [Άσκηση προγραμματισμού](#παραδοτεο-7ο) |
 | 8 | Άσκηση γραμμής εντολών |
 | 9 | Άσκηση προγραμματισμού |
-| 10 | Άσκηση γραμμής εντολών |
+| 10 | [Άσκηση γραμμής εντολών](#παραδοτεο-10ο) |
 | 11 | συμμετοχικό περιεχόμενο |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -49,4 +49,7 @@ https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω βάλω την εικόνα](https://www.w3schools.com/html/html_images.asp)<br/>
 
 __Η ΑΣΚΗΣΗ__<br/>
-https://github.com/alexpoulis/site/blob/master/_remix/mouse-option.md
+https://github.com/alexpoulis/site/blob/master/_remix/mouse-option.md<br/>
+ 
+## ΠΑΡΑΔΟΤΕΟ 7ο
+https://asciinema.org/a/4p4TDVjLERh3HJ3nRlICVYHnk<br/>
