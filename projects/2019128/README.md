@@ -26,7 +26,7 @@
 [Η ιστοσελίδα που συμβουλευτικά για τον 2ο παραδοτέο](https://www.w3schools.com/html/html_colors.asp)<br/>
 <br/>
 __Κώδικας για το button__<br/>
-https://github.com/alexpoulis/site/blob/master/_remix/button.md<br/>
+https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/button/<br/>
 Το μόνο πρόβλημα που αντιμετώπισα ήταν ότι δεν πάτησα να μου το εμφάνιση στο codepen και το έκανα copy paste και δεν μου δούλεψε και ξόδεψα πολύ ώρα και στο τέλος που βρήκα το κουμπί το άνοιξα από εκεί και μου δούλεψε αμέσως.
 ## ΠΑΡΑΔΟΤΕΟ 3ο
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το command prompt](https://phoenixnap.com/kb/change-bash-prompt-linux)<br/>
@@ -40,7 +40,7 @@ https://asciinema.org/a/8gGDFMoy9Vd76iNbq4jaRluD9
 Οι αλλαγές που έκανα είναι να κάνω label για το gender και μετά να διαλέξω τις 2 επιλογές.
  (Male\Female)<br/>
 __Η ΑΣΚΗΣΗ__<br/>
-https://github.com/alexpoulis/site/blob/master/_remix/mouse-form.md
+https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-form/
 ## ΠΑΡΑΔΟΤΕΟ 5o
 Το μόνο πρόβλημα που συνάντησα ήταν ότι δεν βρήκα κάποιο command που να παίζει το mp3 αρχείο που κατέβασα, αλλά βρήκα command που να το παίζει με το link του βίντεο που κατέβασα σε mp3.
 https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF
