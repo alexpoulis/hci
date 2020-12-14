@@ -53,7 +53,7 @@ https://github.com/alexpoulis/site/blob/master/_remix/mouse-option.md<br/>
  
 ## ΠΑΡΑΔΟΤΕΟ 10ο
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως κλείσω το emacs file](https://stackoverflow.com/questions/55485863/how-to-exit-emacs-text-editor-in-ubuntu-terminal/55488766)<br/>
-[Η ιστοσελίδα που συμβουλευτικά για να βρω το πως ανοίξω το emacs file](https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal)<br?>
+[Η ιστοσελίδα που συμβουλευτικά για να βρω το πως ανοίξω το emacs file](https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως να κάνω install το emacs](https://linuxhint.com/ubuntu_emacs_installation/)<br/>
 Η μόνη δυσκολία που συνάντησα στο παραδοτέο ήταν το να βρω πώς να ανοίξω το emacs μέσο του terminal καθώς με την εντολή emacs ανοίγει καινούργιο παράθυρο  το οποίο δεν εμφανίζεται στο βίντεο του asciinema<br/>
 __Η ΑΣΚΗΣΗ__<br/>
