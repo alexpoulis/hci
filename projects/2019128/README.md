@@ -74,8 +74,26 @@ https://asciinema.org/a/4p4TDVjLERh3HJ3nRlICVYHnk<br/>
 ## ΠΑΡΑΔΟΤΕΟ 11ο
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β1__</br>
 https://5fe3519606732e000834e460--fervent-mccarthy-86201a.netlify.app/biography/elisha-gray/</br>
-__ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2__</br>
 
+__ΠΗΓΕΣ__</br>
+https://en.wikipedia.org/wiki/Graphics_tablet#History</br>
+https://en.wikipedia.org/wiki/Elisha_Gray</br>
+http://wiki.gis.com/wiki/index.php/Graphics_tablet</br>
+https://sites.google.com/site/tablets1991/home/a-brief-history-of-tablets</br>
+
+__ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2__</br>
+https://github.com/alexpoulis/site/blob/master/_case-study/touch-screen.md</br>  
+
+__ΠΗΓΕΣ__</br>
+https://en.wikipedia.org/wiki/Touchscreen</br>
+https://en.wikipedia.org/wiki/E._A._Johnson</br>
+https://www.displays2go.com/Article/Touchscreens-Past-Present-Future-87</br>
+https://en.wikipedia.org/wiki/Resistive_touchscreen</br>
+https://el.wikipedia.org/wiki/Hewlett-Packard</br>
+https://en.wikipedia.org/wiki/Multi-touch</br>
+https://el.wikipedia.org/wiki/IBM</br>
+https://en.wikipedia.org/wiki/FingerWorks</br>
+https://www.google.com/search?sxsrf=ALeKk017i-Srqzk3XYhNadLOYd5lW0ga1w%3A1608745682984&ei=0oLjX_SuO4ORlwS514_ACg&q=multytou%CF%88h+gesture-based&oq=multytou%CF%88h+gesture-based&gs_lcp=CgZwc3ktYWIQAzoICAAQBxAeEBM6CggAEAcQChAeEBM6BAgAEBM6BggAEAcQHjoKCAAQCBAHEAoQHjoICAAQCBAHEB5QgilYg6gBYKWrAWgDcAB4AIABpgGIAc4SkgEEMC4xN5gBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwj0397X1OTtAhWDyIUKHbnrA6gQ4dUDCA0&uact=5</br>
 
 
 
