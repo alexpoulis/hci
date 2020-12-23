@@ -44,7 +44,7 @@ https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mous
 ## ΠΑΡΑΔΟΤΕΟ 5o
 Το μόνο πρόβλημα που συνάντησα ήταν ότι δεν βρήκα κάποιο command που να παίζει το mp3 αρχείο που κατέβασα, αλλά βρήκα command που να το παίζει με το link του βίντεο που κατέβασα σε mp3.
 https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF
-## ΠΑΡΑΔΟΤΕΟ 6o
+## ΠΑΡΑΔΟΤΕΟ 6ο
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ A1__</br>
 
 https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/gallery/drawing-tablet/</br>
