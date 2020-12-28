@@ -1,6 +1,13 @@
-# Ονοματεπώνυμο: ΑΛΕΞΑΝΔΡΟΣ ΠΟΥΛΗΣ
+# Επικοινωνία ανθρώπου υπολογιστή
 
-## ΑΜ: 2019128
+## Ονοματεπώνυμο: ΑΛΕΞΑΝΔΡΟΣ ΠΟΥΛΗΣ
+
+## ΑΜ: Π2019128
+
+[my profile](https://github.com/alexpoulis)
+
+[my repository](https://github.com/alexpoulis/hci)
+
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Εισαγωγή](#παραδοτεο-1ο) |
@@ -16,6 +23,7 @@
 | 11 | [συμμετοχικό περιεχόμενο](#παραδοτεο-11ο) |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
+## ΣΥΝΟΨΗ
 
 
 ## ΠΑΡΑΔΟΤΕΟ 1ο
@@ -24,15 +32,15 @@ __ΕΙΣΑΓΩΓΗ__</br>
 ## ΠΑΡΑΔΟΤΕΟ 2ο
 
 __Κώδικας για το button__<br/>
-https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/button/<br/>
+[button](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/button/)<br/>
 Το μόνο πρόβλημα που αντιμετώπισα ήταν ότι δεν πάτησα να μου το εμφάνιση στο codepen και το έκανα copy paste και δεν μου δούλεψε και ξόδεψα πολύ ώρα και στο τέλος που βρήκα το κουμπί το άνοιξα από εκεί και μου δούλεψε αμέσως.</br>
 [Το βίντεο που συμβουλευτικά για τον 2ο παραδοτέο](https://www.youtube.com/watch?v=UB1O30fR-EE&t=1516s)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για τον 2ο παραδοτέο](https://www.w3schools.com/html/html_colors.asp)<br/>
 <br/>
 ## ΠΑΡΑΔΟΤΕΟ 3ο
 
-__Η ΑΣΚΗΣΗ__<br/>
-https://asciinema.org/a/8gGDFMoy9Vd76iNbq4jaRluD9</br>
+__main dependencies and demonstration of my base system__<br/>
+[main dependencies and demonstration of my base system](https://asciinema.org/a/8gGDFMoy9Vd76iNbq4jaRluD9)</br>
 
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω το command prompt](https://phoenixnap.com/kb/change-bash-prompt-linux)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για τα .files](http://manpages.ubuntu.com/manpages/bionic/man1/ls.1.html)<br/>
@@ -40,45 +48,45 @@ https://asciinema.org/a/8gGDFMoy9Vd76iNbq4jaRluD9</br>
 <br/>
 ## ΠΑΡΑΔΟΤΕΟ 4ο
 __Κώδικας για το mouse form__<br/>
-https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-form/</br>
+[mouse form](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-form/)</br>
 Δεν συμβουλεύτηκα καμία ιστοσελίδα καθώς κοιτάζοντας τον ήδη υπάρχοντα κώδικα html κατάφερα να βρω την λύση<br/>
 Οι αλλαγές που έκανα είναι να κάνω label για το gender και μετά να διαλέξω τις 2 επιλογές.
  (Male\Female)<br/>
 ## ΠΑΡΑΔΟΤΕΟ 5ο
 __download mp3 using youtube-dl__</br>
-https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF</br>
-Το μόνο πρόβλημα που συνάντησα ήταν ότι δεν βρήκα κάποιο command που να παίζει το mp3 αρχείο που κατέβασα, αλλά βρήκα command που να το παίζει με το link του βίντεο που κατέβασα σε mp3.</br>
+[youtube-dl](https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF)</br>
+Το μόνο πρόβλημα που συνάντησα ήταν ότι δεν βρήκα κάποιο command που να παίζει το mp3 αρχείο που κατέβασα, αλλά βρήκα command που να το παίζει με το link του βίντεο.</br>
 ## ΠΑΡΑΔΟΤΕΟ 6ο
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ A1__</br>
-
-https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/gallery/drawing-tablet/</br>
-https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/gallery/touch-screen/</br>
+- images: [digitizer](https://github.com/alexpoulis/images/blob/5b6129514388e7366506bf1696d59f4d2921e0b4/wacom-tablet.png), [touch screen](https://github.com/alexpoulis/images/blob/5b6129514388e7366506bf1696d59f4d2921e0b4/touch-screen.jpg).
+- gallery: [digitizer](https://github.com/alexpoulis/_gallery/blob/23fe3e086b632f5b0ca1ba12b7d7bba8cced770b/drawing-tablet.md), [touch screen](https://github.com/alexpoulis/_gallery/blob/23fe3e086b632f5b0ca1ba12b7d7bba8cced770b/touch-screen.md), [digitizer netlify](https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/gallery/drawing-tablet/), [touch screen netlify](https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/gallery/touch-screen/).
 
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ A2__</br>
-https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/timeline/personal/</br>
-https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/slides/archetypes/</br>
+- [timeline](https://github.com/alexpoulis/site/blob/master/_timeline/personal.md), [timeline netlify](https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/timeline/personal/)</br>
+- [slides](https://github.com/alexpoulis/site/blob/master/_slides/archetypes.md), [slides netlify](https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/slides/archetypes/)</br>
 
 ## ΠΑΡΑΔΟΤΕΟ 7ο
 __Κώδικας για το mouse option__<br/>
-https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-option/<br/>
+[mouse option](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-option/)<br/>
 <br/>
 [Η ιστοσελίδα που συμβουλευτικά για να αλλάξω βάλω την εικόνα](https://www.w3schools.com/html/html_images.asp)<br/>
  
 ## ΠΑΡΑΔΟΤΕΟ 9ο 
-__Κώδικας για το image__
-https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/image/<br/>
+__Κώδικας για το image__</br>
+[image](https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/image/)<br/>
  
 ## ΠΑΡΑΔΟΤΕΟ 10ο
 __Notes using emacs__<br/>
-https://asciinema.org/a/4p4TDVjLERh3HJ3nRlICVYHnk<br/>
-Η μόνη δυσκολία που συνάντησα στο παραδοτέο ήταν το να βρω πώς να ανοίξω το emacs μέσο του terminal καθώς με την εντολή emacs ανοίγει καινούργιο παράθυρο  το οποίο δεν εμφανίζεται στο βίντεο του asciinema.<br/>
+[emacs](https://asciinema.org/a/4p4TDVjLERh3HJ3nRlICVYHnk)<br/>
+Η μόνη δυσκολία που συνάντησα στο παραδοτέο ήταν το να βρω πώς να ανοίξω το emacs μέσο του terminal καθώς με την εντολή emacs ανοίγει καινούργιο παράθυρο το οποίο δεν εμφανίζεται στο βίντεο του asciinema.<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως κλείσω το emacs file](https://stackoverflow.com/questions/55485863/how-to-exit-emacs-text-editor-in-ubuntu-terminal/55488766)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως ανοίξω το emacs file](https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως να κάνω install το emacs](https://linuxhint.com/ubuntu_emacs_installation/)<br/>
 
 ## ΠΑΡΑΔΟΤΕΟ 11ο
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β1__</br>
-https://5fe3519606732e000834e460--fervent-mccarthy-86201a.netlify.app/biography/elisha-gray/</br>
+- [biography(Elisha Gray)](https://github.com/alexpoulis/site/blob/master/_biography/elisha-gray.md)</br>
+- [biography(Elisha Gray) netlify](https://5fe3519606732e000834e460--fervent-mccarthy-86201a.netlify.app/biography/elisha-gray/)</br>
 
 __ΠΗΓΕΣ__</br>
 https://en.wikipedia.org/wiki/Graphics_tablet#History</br>
@@ -87,7 +95,8 @@ http://wiki.gis.com/wiki/index.php/Graphics_tablet</br>
 https://sites.google.com/site/tablets1991/home/a-brief-history-of-tablets</br>
 
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β2__</br>
-https://github.com/alexpoulis/site/blob/master/_case-study/touch-screen.md</br>  
+- [case study(touch screen)](https://github.com/alexpoulis/site/blob/master/_case-study/touch-screen.md)</br>
+- [case study(touch screen) netlify](https://github.com/alexpoulis/site/blob/master/_case-study/touch-screen.md)</br>  
 
 __ΠΗΓΕΣ__</br>
 https://en.wikipedia.org/wiki/Touchscreen</br>
