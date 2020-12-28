@@ -6,13 +6,13 @@
 | 1 | [Εισαγωγή](#παραδοτεο-1ο) |
 | 2 | [Άσκηση προγραμματισμού</br>(button)](#παραδοτεο-2ο) |
 | 3 | [Άσκηση γραμμής εντολών</br>(setting up the main dependencies and demonstrate your base system)](#παραδοτεο-3ο) |
-| 4 | [Άσκηση προγραμματισμού](#παραδοτεο-4ο) |
-| 5 | [Άσκηση γραμμής εντολών](#παραδοτεο-5ο) |
+| 4 | [Άσκηση προγραμματισμού</br>(mouse form)](#παραδοτεο-4ο) |
+| 5 | [Άσκηση γραμμής εντολών</br>(youtube-dl)](#παραδοτεο-5ο) |
 | 6 | [συμμετοχικό περιεχόμενο](#παραδοτεο-6ο) |
-| 7 | [Άσκηση προγραμματισμού](#παραδοτεο-7ο) |
+| 7 | [Άσκηση προγραμματισμού</br>(mouse option)](#παραδοτεο-7ο) |
 | 8 | Άσκηση γραμμής εντολών |
-| 9 | [Άσκηση προγραμματισμού](#παραδοτεο-9ο) |
-| 10 | [Άσκηση γραμμής εντολών](#παραδοτεο-10ο) |
+| 9 | [Άσκηση προγραμματισμού</br>(image)](#παραδοτεο-9ο) |
+| 10 | [Άσκηση γραμμής εντολών</br>(emacs)](#παραδοτεο-10ο) |
 | 11 | [συμμετοχικό περιεχόμενο](#παραδοτεο-11ο) |
 | 12 | Τελική αναφορά και αίτημα ενσωμάτωσης για βαθμολόγηση |
 
@@ -39,14 +39,15 @@ https://asciinema.org/a/8gGDFMoy9Vd76iNbq4jaRluD9</br>
 [Η ιστοσελίδα που συμβουλευτικά για το software και το hardware](https://vitux.com/get-linux-system-and-hardware-details-on-the-command-line/)<br/>
 <br/>
 ## ΠΑΡΑΔΟΤΕΟ 4ο
+__Κώδικας για το mouse form__<br/>
+https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-form/</br>
 Δεν συμβουλεύτηκα καμία ιστοσελίδα καθώς κοιτάζοντας τον ήδη υπάρχοντα κώδικα html κατάφερα να βρω την λύση<br/>
 Οι αλλαγές που έκανα είναι να κάνω label για το gender και μετά να διαλέξω τις 2 επιλογές.
  (Male\Female)<br/>
-__Η ΑΣΚΗΣΗ__<br/>
-https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-form/
-## ΠΑΡΑΔΟΤΕΟ 5o
-Το μόνο πρόβλημα που συνάντησα ήταν ότι δεν βρήκα κάποιο command που να παίζει το mp3 αρχείο που κατέβασα, αλλά βρήκα command που να το παίζει με το link του βίντεο που κατέβασα σε mp3.
-https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF
+## ΠΑΡΑΔΟΤΕΟ 5ο
+__download mp3 using youtube-dl__</br>
+https://asciinema.org/a/d32tjGtGzWHCzuwjgGEKzveBF</br>
+Το μόνο πρόβλημα που συνάντησα ήταν ότι δεν βρήκα κάποιο command που να παίζει το mp3 αρχείο που κατέβασα, αλλά βρήκα command που να το παίζει με το link του βίντεο που κατέβασα σε mp3.</br>
 ## ΠΑΡΑΔΟΤΕΟ 6ο
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ A1__</br>
 
@@ -58,21 +59,22 @@ https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/timeline/p
 https://5fe24073ccb7e468c1a8f7ff--fervent-mccarthy-86201a.netlify.app/slides/archetypes/</br>
 
 ## ΠΑΡΑΔΟΤΕΟ 7ο
-[Η ιστοσελίδα που συμβουλευτικά για να αλλάξω βάλω την εικόνα](https://www.w3schools.com/html/html_images.asp)<br/>
-
-__Η ΑΣΚΗΣΗ__<br/>
+__Κώδικας για το mouse option__<br/>
 https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/mouse-option/<br/>
+<br/>
+[Η ιστοσελίδα που συμβουλευτικά για να αλλάξω βάλω την εικόνα](https://www.w3schools.com/html/html_images.asp)<br/>
  
-## ΠΑΡΑΔΟΤΕΟ 9o 
+## ΠΑΡΑΔΟΤΕΟ 9ο 
+__Κώδικας για το image__
 https://5fd7d67342a253008f2b8b96--fervent-mccarthy-86201a.netlify.app/remix/image/<br/>
  
 ## ΠΑΡΑΔΟΤΕΟ 10ο
+__Notes using emacs__<br/>
+https://asciinema.org/a/4p4TDVjLERh3HJ3nRlICVYHnk<br/>
+Η μόνη δυσκολία που συνάντησα στο παραδοτέο ήταν το να βρω πώς να ανοίξω το emacs μέσο του terminal καθώς με την εντολή emacs ανοίγει καινούργιο παράθυρο  το οποίο δεν εμφανίζεται στο βίντεο του asciinema.<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως κλείσω το emacs file](https://stackoverflow.com/questions/55485863/how-to-exit-emacs-text-editor-in-ubuntu-terminal/55488766)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως ανοίξω το emacs file](https://superuser.com/questions/203298/ubuntu-keep-emacs-in-the-terminal)<br/>
 [Η ιστοσελίδα που συμβουλευτικά για να βρω το πως να κάνω install το emacs](https://linuxhint.com/ubuntu_emacs_installation/)<br/>
-Η μόνη δυσκολία που συνάντησα στο παραδοτέο ήταν το να βρω πώς να ανοίξω το emacs μέσο του terminal καθώς με την εντολή emacs ανοίγει καινούργιο παράθυρο  το οποίο δεν εμφανίζεται στο βίντεο του asciinema.<br/>
-__Η ΑΣΚΗΣΗ__<br/>
-https://asciinema.org/a/4p4TDVjLERh3HJ3nRlICVYHnk<br/>
 
 ## ΠΑΡΑΔΟΤΕΟ 11ο
 __ΣΥΜΕΤΟΧΙΚΟ ΠΕΡΙΕΧΟΜΕΝΟ Β1__</br>
